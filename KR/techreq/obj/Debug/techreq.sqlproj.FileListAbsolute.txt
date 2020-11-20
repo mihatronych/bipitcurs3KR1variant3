@@ -1,0 +1,5 @@
+C:\Users\Пользователь\Desktop\BIPIT\KR\techreq\bin\Debug\techreq.dacpac
+C:\Users\Пользователь\Desktop\BIPIT\KR\techreq\bin\Debug\techreq.dll
+C:\Users\Пользователь\Desktop\BIPIT\KR\techreq\bin\Debug\techreq.pdb
+C:\Users\Пользователь\Desktop\BIPIT\KR\techreq\obj\Debug\techreq.dll
+C:\Users\Пользователь\Desktop\BIPIT\KR\techreq\obj\Debug\techreq.pdb

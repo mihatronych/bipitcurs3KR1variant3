@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\bin\Debug\KR.exe.config
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\bin\Debug\KR.exe
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\bin\Debug\KR.pdb
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\obj\Debug\KR.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\obj\Debug\KR.Form1.resources
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\obj\Debug\KR.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\obj\Debug\KR.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\obj\Debug\KR.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\obj\Debug\KR.exe
+C:\Users\Пользователь\Desktop\BIPIT\KR\KR\obj\Debug\KR.pdb

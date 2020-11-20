@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\BIPIT\KR\WcfService\bin\Debug\WcfService.dll.config
+C:\Users\Пользователь\Desktop\BIPIT\KR\WcfService\bin\Debug\WcfService.dll
+C:\Users\Пользователь\Desktop\BIPIT\KR\WcfService\bin\Debug\WcfService.pdb
+C:\Users\Пользователь\Desktop\BIPIT\KR\WcfService\obj\Debug\WcfService.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\BIPIT\KR\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\BIPIT\KR\WcfService\obj\Debug\WcfService.dll
+C:\Users\Пользователь\Desktop\BIPIT\KR\WcfService\obj\Debug\WcfService.pdb
